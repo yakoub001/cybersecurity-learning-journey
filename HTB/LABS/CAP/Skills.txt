@@ -1,0 +1,7 @@
+Skills Required : 
+  Web enumeration
+  Packet capture analysis
+  
+Skills learned: 
+  IDOR
+  Exploiting Linux capabilities 
